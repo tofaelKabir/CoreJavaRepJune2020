@@ -19,3 +19,4 @@ public class ColumbiaUniversity {
 	
 
 }
+//Why constructor after method? what is the sequence?
