@@ -18,3 +18,11 @@ public interface College {
 	 (See Interface-TestCollege for the remaining answer of this question i)
 	 **/
 
+/* 
+1. Why constructor is outside interface? Do you write constructor outside in class?
+2. Line 10, without comment out how you write ... Default .............
+3. where is the last } of constructor?
+4. As interface does not need an object -- where did you find it?
+
+
+*/
