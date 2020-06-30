@@ -25,3 +25,10 @@ public interface TestCollege extends Hospital, University {//the error probably 
 /*
  * i)  An interface can inherit other interface but not a regular class/abstract. An interface can inherit more than one interface.
  **/
+
+/*
+
+1. what is this Interface for? Confused.
+2. why you created test college?
+3. i LIKE TO KNOW WHAT IS THE ERROR IN LINE 18
+*/
