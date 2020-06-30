@@ -17,6 +17,15 @@ public class TestFamilyHierarchy {
 		father2.age=83;
 		father2.Name="Gias";
 		father2.fatherInfo();
+		
+		//testing
+		
+		/*
+		kmfkldnflfgkmgfh
+		kgmhlkgfmhlfmgn
+		gmhlfhm;lfgk
+		glkhmlf
+		 * */
 
 	}
 
