@@ -56,3 +56,6 @@ public class TestAnimal {
 	}
 
 }
+// bulldog extends dog and cobra extends snake is missing
+//where is the multi level inheritance example, where is hierarchical inheritance.?
+// where is subclass example?
