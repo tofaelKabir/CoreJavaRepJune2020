@@ -14,4 +14,17 @@ git push origin master
 
  * */
 
+	/*
+	 
+JISHAN@LAPTOP-O7238H7R MINGW64 ~ (master)
+$ cd eclipse-workspace2
+
+JISHAN@LAPTOP-O7238H7R MINGW64 ~/eclipse-workspace2 (master)
+$ git add .
+
+JISHAN@LAPTOP-O7238H7R MINGW64 ~/eclipse-workspace2 (master)
+$ git commit -m "date and time"
+ 
+	 * */
+	
 }
