@@ -9,7 +9,16 @@ public abstract class EngineeringSchool1 extends EngineeringSchool{ //must need 
 	 * */
 	
 	
-	
+/*
+1. why this class is twice?	
+2. in previous class same constructor issue, should be before method
+3. here, to extends you don't need to create same name, you created other abstract class, you can inherit them
+
+
+
+
+
+*/
 	
 	
 	
