@@ -10,7 +10,7 @@ public class BullDog extends Mammal{
 		System.out.println("This method is from BullDog Class");
 	}
 
-	
+// bulldog extends dogs, dogs extends mammal	
 	
 
 }
