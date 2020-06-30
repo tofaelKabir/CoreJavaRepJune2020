@@ -10,4 +10,13 @@ public class Hi {
 		System.out.println("I am learning java basics. \t \nand it is interesting.");
 		System.out.println("I live in birmingham AL. I like this city");
 	}
+	
+	/*
+	 fmg,hmlgmhlgkhlml;hmn
+	 nlkmhlgkmnlkh
+	 gkhmglmn;lh
+	 gmhlgmh;lkgmf
+	 * */
 }
+
+
